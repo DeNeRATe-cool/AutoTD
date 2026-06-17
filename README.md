@@ -13,7 +13,7 @@
 >
 > **[AutoSign](https://github.com/DeNeRATe-cool/AutoSign)**: 北航 BUAA iClass 多账号自动签到 CLI（开机自启、自动签到、多账号配置、跨平台支持、免费全天托管服务）
 
-# autoTD
+# AutoTD
 
 [![PyPI](https://img.shields.io/pypi/v/autotd-buaa)](https://pypi.org/project/autotd-buaa/)
 [![Python](https://img.shields.io/pypi/pyversions/autotd-buaa)](https://pypi.org/project/autotd-buaa/)
