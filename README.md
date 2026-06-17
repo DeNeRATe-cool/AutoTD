@@ -1,6 +1,13 @@
+> [!IMPORTANT]
+> 北航 TD 官方截止时间一般是 14 周周日
+> 
+> 但每学期均会延长一周（15 周周日）
+> 
+> 需要打卡的同学注意打卡时间，默认一天打卡三次（每学期要求共 32 次）
+
 📡 **产品集**
 
-> **[AutoTD](https://github.com/DeNeRATe-cool/autoTD)**: BUAA TD PyPI
+> **[AutoTD](https://github.com/DeNeRATe-cool/autoTD)**: BUAA TD PyPI 实现 TD 自由
 > 
 > **[AutoBoya](https://github.com/DeNeRATe-cool/AutoBoya)**: 北航博雅课程命令行工具，支持后台运行、自动选课、签到与签退，实现博雅自由
 >
@@ -13,7 +20,8 @@
 
 `autoTD` 是一个用于 BUAA TD 打卡流程管理与执行的 Python CLI 工具。
 
-> 仅支持校园网直连环境，不支持 VPN。
+> [!NOTE]
+> 仅支持**校园网**直连环境，不支持 VPN。
 
 ## Quickstart
 
